@@ -3,6 +3,7 @@ Snake game.
 Authors:
 <insert the names of your teammates here>
 '''
+teammates = Jada
 
 import pygame
 import random
